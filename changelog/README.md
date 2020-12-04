@@ -4,6 +4,7 @@
 
 ### 4.10.0 (in progress)
 
+- [new feature] JAVA-2899: Re-introduce cross-DC failover in driver 4
 - [improvement] JAVA-2905: Prevent new connections from using a protocol version higher than the negotiated one
 - [bug] JAVA-2647: Handle token types in QueryBuilder.literal()
 - [bug] JAVA-2887: Handle composite profiles with more than one key and/or backed by only one profile

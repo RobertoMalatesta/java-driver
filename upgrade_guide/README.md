@@ -1,5 +1,11 @@
 ## Upgrade guide
 
+### 4.10.0
+
+[JAVA-2899](https://datastax-oss.atlassian.net/browse/JAVA-2676) re-introduced the ability to
+perform cross-datacenter failover. See [Load balancing](../manual/core/loadbalancing/) in the
+manual for details.
+
 ### 4.5.x - 4.6.0
 
 These versions are subject to [JAVA-2676](https://datastax-oss.atlassian.net/browse/JAVA-2676), a
